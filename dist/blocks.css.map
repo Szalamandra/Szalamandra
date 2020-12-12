@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,uBAAuB;AACvB,AAAA,oBAAoB,CAAC;EACpB,OAAO,EAAE,IAAI;CAOb;;AARD,AAGC,oBAHmB,CAGnB,6BAA6B,CAAC;EAC7B,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,YAAY,EAAE,IAAI;CAClB;;AAEF,sBAAsB;ACVtB,uBAAuB;AACvB,AACC,qBADoB,CACpB,2BAA2B,CAAC;EAC3B,WAAW,EAAE,IAAI;CACjB;;AAEF,sBAAsB",
+    "sources": [
+        "../wp-content/themes/aquila-master/assets/src/sass/blocks.scss",
+        "../wp-content/themes/aquila-master/assets/src/sass/7-blocks/_heading-with-icon.scss",
+        "../wp-content/themes/aquila-master/assets/src/sass/7-blocks/_dos-and-donts.scss"
+    ],
+    "names": [],
+    "file": "blocks.css"
+}

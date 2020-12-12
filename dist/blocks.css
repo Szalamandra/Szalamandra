@@ -1,0 +1,25 @@
+/* stylelint-disable */
+.aquila-icon-heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.aquila-icon-heading .aquila-icon-heading__heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 16px;
+}
+
+/* stylelint-enable */
+/* stylelint-disable */
+.aquila-dos-and-donts .aquila-dos-and-donts__list {
+  margin-left: 20px;
+}
+
+/* stylelint-enable */
+/*# sourceMappingURL=blocks.css.map */

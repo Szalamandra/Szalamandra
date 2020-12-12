@@ -1,0 +1,10 @@
+/node_modules
+/vendor
+package-lock.json
+composer.lock
+/wp-content/themes/_s-master
+/wp-content/themes/aquila-master
+/wp-content/themes/theme-bones-master
+/wp-content/themes/tm-beans
+/wp-content/themes/twentytwentyone
+.Trashes

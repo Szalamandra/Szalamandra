@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpressNoemi' );
+define( 'DB_NAME', 'wordpressNoemiUj' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
@@ -88,3 +88,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+
+/*define('WP_ALLOW_REPAIR',true); /*this allows you to make repairs in the database http://localhost/wordpressNoemi/wp-admin/maint/repair.php*/
