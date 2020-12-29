@@ -36,10 +36,11 @@
 
 			:hover > a,
 			.focus > a {
+				color:lightgoldenrodyellow;
 			}
-
+			//these two are the same
 			a:hover,
-			a.focus {
+			a.focus {color:lightgoldenrodyellow;
 			}
 		}
 
@@ -54,6 +55,7 @@
 
 		&:hover > a,
 		&.focus > a {
+			color:lightgoldenrodyellow;
 		}
 	}
 
@@ -62,11 +64,11 @@
 		text-decoration: none;
 	}
 
-	.current_page_item > a,
+	/*.current_page_item > a,
 	.current-menu-item > a,
 	.current_page_ancestor > a,
 	.current-menu-ancestor > a {
-	}
+	}*/
 }
 
 /* Small menu. */
@@ -107,3 +109,4 @@
 		flex: 1 0 50%;
 	}
 }
+
