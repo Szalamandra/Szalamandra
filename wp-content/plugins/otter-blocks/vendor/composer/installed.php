@@ -1,8 +1,8 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.5.12',
-    'version' => '1.5.12.0',
+    'pretty_version' => '1.6.0',
+    'version' => '1.6.0.0',
     'aliases' => 
     array (
     ),
@@ -22,12 +22,12 @@
     ),
     'codeinwp/gutenberg-blocks' => 
     array (
-      'pretty_version' => '1.5.11',
-      'version' => '1.5.11.0',
+      'pretty_version' => '1.6.0',
+      'version' => '1.6.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'a7449863ee9c45bb201e25aedd51f0c86565c67d',
+      'reference' => '0815d2fc940f4a535e3ccf4da61cc7cc4603f9c4',
     ),
     'codeinwp/gutenberg-css' => 
     array (
@@ -49,8 +49,8 @@
     ),
     'codeinwp/otter-blocks' => 
     array (
-      'pretty_version' => '1.5.12',
-      'version' => '1.5.12.0',
+      'pretty_version' => '1.6.0',
+      'version' => '1.6.0.0',
       'aliases' => 
       array (
       ),

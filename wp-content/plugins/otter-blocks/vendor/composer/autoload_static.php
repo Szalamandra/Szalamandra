@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit3227f73968f129cdf0276c43a959c1d0
+class ComposerStaticInit3888f06cdcd0dfda73df0e8d7afc5dca
 {
     public static $files = array (
         '4940672e65e7c6c88ed7150711580427' => __DIR__ . '/..' . '/codeinwp/gutenberg-animation/load.php',
@@ -66,8 +66,11 @@ class ComposerStaticInit3227f73968f129cdf0276c43a959c1d0
         'ThemeIsle\\GutenbergBlocks\\CSS\\Blocks\\Button_Group_CSS' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/blocks/class-button-group-css.php',
         'ThemeIsle\\GutenbergBlocks\\CSS\\Blocks\\Circle_Counter_CSS' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/blocks/class-circle-counter-css.php',
         'ThemeIsle\\GutenbergBlocks\\CSS\\Blocks\\Font_Awesome_Icons_CSS' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/blocks/class-font-awesome-icons-css.php',
+        'ThemeIsle\\GutenbergBlocks\\CSS\\Blocks\\Icon_List_CSS' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/blocks/class-icon-list-css.php',
+        'ThemeIsle\\GutenbergBlocks\\CSS\\Blocks\\Icon_List_Item_CSS' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/blocks/class-icon-list-item-css.php',
         'ThemeIsle\\GutenbergBlocks\\CSS\\Blocks\\Progress_Bar_CSS' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/blocks/class-progress-bar-css.php',
         'ThemeIsle\\GutenbergBlocks\\CSS\\CSS_Handler' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/class-css-handler.php',
+        'ThemeIsle\\GutenbergBlocks\\CSS\\CSS_Utility' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/css/class-css-utility.php',
         'ThemeIsle\\GutenbergBlocks\\Main' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/class-main.php',
         'ThemeIsle\\GutenbergBlocks\\Plugins\\Options_Settings' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/plugins/class-options-settings.php',
         'ThemeIsle\\GutenbergBlocks\\Render\\About_Author_Block' => __DIR__ . '/..' . '/codeinwp/gutenberg-blocks/inc/render/class-about-author-block.php',
@@ -86,9 +89,9 @@ class ComposerStaticInit3227f73968f129cdf0276c43a959c1d0
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit3227f73968f129cdf0276c43a959c1d0::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit3227f73968f129cdf0276c43a959c1d0::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit3227f73968f129cdf0276c43a959c1d0::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit3888f06cdcd0dfda73df0e8d7afc5dca::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit3888f06cdcd0dfda73df0e8d7afc5dca::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInit3888f06cdcd0dfda73df0e8d7afc5dca::$classMap;
 
         }, null, ClassLoader::class);
     }
