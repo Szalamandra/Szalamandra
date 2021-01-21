@@ -93,6 +93,7 @@ function login_header( $title = 'Log In', $message = '', $wp_error = null ) {
 	<?php
 
 	wp_enqueue_style( 'login' );
+	wp_enqueue_style('onis_login_style',100);
 
 	/*
 	 * Remove all stored post data on logging out.
