@@ -1,0 +1,1950 @@
+# Translation of Plugins - Orbit Fox by ThemeIsle - Development (trunk) in Hungarian
+# This file is distributed under the same license as the Plugins - Orbit Fox by ThemeIsle - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-07 10:24:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - Orbit Fox by ThemeIsle - Development (trunk)\n"
+
+#: obfx_modules/header-footer-scripts/init.php:112
+msgid "Header/Footer scripts"
+msgstr "Fejléc/Lábléc szkriptek"
+
+#: obfx_modules/header-footer-scripts/init.php:45
+#: obfx_modules/header-footer-scripts/init.php:139
+msgid "Header scripts"
+msgstr "Fejléc szkriptek"
+
+#: obfx_modules/header-footer-scripts/init.php:40
+msgid "An easy way to add scripts, such as tracking and analytics scripts, to the header and footer of your website, as well as in the body of your posts and pages."
+msgstr "Egyszerű mód a szkriptek, például a nyomkövető és az elemző szkriptek hozzáadásához a weboldal fejlécéhez és láblécéhez, valamint a bejegyzések és oldalak törzséhez."
+
+#: obfx_modules/header-footer-scripts/init.php:54
+#: obfx_modules/header-footer-scripts/init.php:169
+msgid "Footer scripts"
+msgstr "Láblác szkriptek"
+
+#: obfx_modules/header-footer-scripts/init.php:189
+msgid "Scripts"
+msgstr "Szkriptek"
+
+#: obfx_modules/header-footer-scripts/init.php:36
+#: obfx_modules/custom-fonts/init.php:36
+msgid "NEW"
+msgstr "ÚJ"
+
+#: obfx_modules/mystock-import/init.php:154
+msgid "Image download failed, please try again."
+msgstr "Kép betöltése sikertelen, próbáld újra!"
+
+#: obfx_modules/mystock-import/init.php:146
+msgid "The URL of the image does not exist."
+msgstr "A kép URL nem létezik."
+
+#: obfx_modules/mystock-import/init.php:184
+msgid "Image successfully uploaded to the media library!"
+msgstr "A képet sikeresen feltöltötted a médiatárba."
+
+#: obfx_modules/mystock-import/init.php:141
+msgid "Invalid nonce."
+msgstr "Érvénytelen nonce."
+
+#: obfx_modules/mystock-import/init.php:161
+msgid "Image type could not be determined"
+msgstr "A kép típusa nem meghatározható."
+
+#: obfx_modules/mystock-import/init.php:135
+msgid "The current user does not have permission to upload files."
+msgstr "A jelenlegi felhasználónak nincs engedélye fájlok feltöltésére."
+
+#: obfx_modules/mystock-import/init.php:130
+msgid "There was an error getting image details from the request, please try again."
+msgstr "Hiba a képadatok beolvasásakor a kérésből, kérjük, próbálkozzon újra."
+
+#: core/app/views/modules-page.php:72
+msgid "Recommended Plugins"
+msgstr "Ajánlott bővítmények"
+
+#: obfx_modules/gutenberg-blocks/init.php:128
+msgid "Blocks by OrbitFox and Otter"
+msgstr "Az OrbitFox és Otter blokkjai"
+
+#: obfx_modules/gutenberg-blocks/init.php:24
+msgid "Gutenberg Blocks <sup class=\"obfx-title-new\">NEW</sup>"
+msgstr "Gutenberg blokkok <sup class=\"obfx-title-new\">ÚJ </sup>"
+
+#: obfx_modules/gutenberg-blocks/init.php:28
+msgid "A set of awesome Gutenberg Blocks provided by %1$sOtter's%2$s plugin!"
+msgstr "Egy sor nagyszerű Gutenberg blokk, melyet az %1$sOtter's%2$s bővítmény szolgáltat!"
+
+#: obfx_modules/policy-notice/init.php:359
+msgid "Not Set"
+msgstr "Nincs beállítva"
+
+#: obfx_modules/policy-notice/init.php:123
+msgid "Accept Cookie Button Label"
+msgstr "Cookie elfogadás gomb címke"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://orbitfox.com/"
+msgstr "https://orbitfox.com/"
+
+#: obfx_modules/policy-notice/init.php:362
+msgid "Default Core Policy"
+msgstr "Alapértelmezett alap irányelvek"
+
+#: obfx_modules/policy-notice/init.php:118
+msgid "View Policy"
+msgstr "Irányelvek megtekintése"
+
+#: obfx_modules/policy-notice/init.php:116
+msgid "Policy Button Label"
+msgstr "Irányelvek gomb címke"
+
+#: obfx_modules/policy-notice/init.php:108
+msgid "Policy Page"
+msgstr "Irányelvek oldal"
+
+#: obfx_modules/policy-notice/init.php:103
+msgid "This website uses cookies to improve your experience. We'll assume you accept this policy as long as you are using this website"
+msgstr "Ez az oldal cookie-kat használ, hogy javítsa a felhasználói élményt. Feltételezzük, hogy amikor weblapunkat használja, elfogadja ezeket az irányelveket."
+
+#: obfx_modules/policy-notice/init.php:101
+msgid "Policy description"
+msgstr "Irányelvek részletei"
+
+#: obfx_modules/policy-notice/init.php:94
+msgid "Allow OrbitFox to display a bottom bar with info about the website Private Policy."
+msgstr "Engedélyezzük, hogy az OrbitFox megjelenítsen egy alsó sávot a weblap Adat Irányelvei információjával."
+
+#: obfx_modules/policy-notice/init.php:29
+msgid "A simple notice bar which will help you inform users about your website policy."
+msgstr "Egy egyszerű sáv, amely információval szolgál a látogatók számára a weblap adat irányelveiről."
+
+#: obfx_modules/policy-notice/init.php:28
+msgid "Policy Notice"
+msgstr "Adatvédelmi Irányelvek infó"
+
+#: core/app/views/partials/module-tile-tpl.php:72
+msgid "Beta module"
+msgstr "Béta modul"
+
+#: obfx_modules/menu-icons/init.php:306
+msgid "plugin"
+msgstr "bővítmény"
+
+#: obfx_modules/menu-icons/init.php:296
+msgid "theme"
+msgstr "sablon"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:444
+msgid "Advantage"
+msgstr "Előny"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:433
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:445
+msgid "Add new advantage"
+msgstr "Új előny hozzáadása"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:420
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:734
+msgid "Easy to use"
+msgstr "Könnyen kezelhető"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:415
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:729
+msgid "Highly customizable"
+msgstr "Nagymértékben testreszabható"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:410
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:724
+msgid "Designs & interfaces"
+msgstr "Dizájn és felületek"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:405
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:719
+msgid "Ideas and concepts"
+msgstr "Ötletek és koncepciók"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:372
+msgid "About us page - our advantages"
+msgstr "Rólunk oldal - előnyeink"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:363
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:382
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:162
+msgid "Our advantages"
+msgstr "Előnyeink"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:308
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:141
+msgid "What the video about our new products"
+msgstr "Nézze meg a videót új termékeinkről."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:290
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:140
+msgid "Presentation"
+msgstr "Megjelenítés"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:280
+msgid "About us page - video"
+msgstr "Rólunk oldal - videó"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:271
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:353
+msgid "Video"
+msgstr "Videó"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:238
+msgid "Team member"
+msgstr "Csapattag"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:172
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:82
+msgid "An awesome way to introduce the members of your team."
+msgstr "Nagyszerű mód a csapat tagjainak bemutatására."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:144
+msgid "About us page - our team"
+msgstr "Rólunk oldal - csapatunk"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:135
+msgid "Our team"
+msgstr "Csapatunk"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:129
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:247
+msgid "About us page"
+msgstr "Rólunk oldal"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:114
+msgid "You can replace the homepage slider with any plugin you like, just copy the shortcode generated and paste it here."
+msgstr "A főoldal csúszkáját bármilyen bővítménnyel helyettesítheti. Csak másolja ki a létrehozott rövidkódot és helyezze be ide."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:113
+msgid "Slider shortcode"
+msgstr "Csúszka rövidkód"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:95
+msgid "Slide"
+msgstr "Csúszka"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:85
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:96
+msgid "Add new slide"
+msgstr "Új csúszka hozzáadása"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:35
+msgid "Slider section"
+msgstr "Csúszka rész"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:23
+msgid "doc"
+msgstr "dok"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:23
+msgid "Need further assistance? Check out this"
+msgstr "További segítségre van szüksége? Nézze át ezt: "
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:23
+msgid "To customize the About us Page you need to first select the template \"About us page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
+msgstr "A Rólunk oldal testreszabásához először ki kell választania a \"Rólunk oldal\" sablont az erre a célra használni kívánt oldalhoz. Ezután nyissa meg az oldalt a böngészőben és kattintson a \"Testreszabás\" linkre a felső sávban."
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:37
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:71
+msgid "Responsive Theme"
+msgstr "Reszponzív sablon"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:30
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:64
+msgid "Hight quality store"
+msgstr "Magas minőségű bolt"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:24
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:31
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:38
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:58
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:65
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:72
+msgid "FIND OUT MORE"
+msgstr "TUDJON MEG TÖBBET"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:23
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:57
+msgid "WooCommerce Theme"
+msgstr "WooCommerce sablon"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:22
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:29
+#: obfx_modules/companion-legacy/inc/shop-isle/content-slider.php:36
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:56
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:63
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:70
+msgid "ShopIsle"
+msgstr "ShopIsle"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:227
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:239
+msgid "Add new team member"
+msgstr "Új csapattag hozzáadása"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:406
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:411
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:416
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:421
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:720
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:725
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:730
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:735
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: obfx_modules/menu-icons/init.php:311
+msgid "There appears to be a conflict with the %1$s %2$s. This module may not work as expected."
+msgstr "Úgy tűnik ütközés van a(z) %1$s %2$s modullal. Lehetséges, hogy ez a modul nem a várt módon fog működni."
+
+#: obfx_modules/google-analytics/init.php:246
+msgid "Authenticate with Google"
+msgstr "Google hitelesítés"
+
+#: obfx_modules/google-analytics/init.php:288
+msgid "Unregister Site"
+msgstr "Weblap leregisztrálása"
+
+#: obfx_modules/google-analytics/init.php:272
+msgid "Refresh Accounts"
+msgstr "Fiókok frissítése"
+
+#: obfx_modules/google-analytics/init.php:251
+msgid "Select a tracking code"
+msgstr "Követőkód kiválasztása"
+
+#: obfx_modules/google-analytics/init.php:32
+msgid "A module to integrate Google Analytics into your site easily."
+msgstr "Egy modul, amely segítségével könnyen integrálhatja a Google Analytics szolgáltatást a webhelybe."
+
+#: obfx_modules/google-analytics/init.php:31
+msgid "Analytics Integration"
+msgstr "Analytics integráció"
+
+#: obfx_modules/uptime-monitor/init.php:33
+msgid "In order to use the uptime service, we will need your e-mail address, where we will send downtime alerts."
+msgstr "Ahhoz, hogy használni tudja az elérhetőségi szolgáltatást, szükségünk lesz az e-mail címére, ahova a leállási értesítéseket fogjuk elküldeni."
+
+#: obfx_modules/uptime-monitor/init.php:33
+msgid "One more step..."
+msgstr "Még egy lépés..."
+
+#: core/app/views/partials/module-tile-tpl.php:42
+msgid "Got it!"
+msgstr "Értem!"
+
+#: obfx_modules/uptime-monitor/init.php:32
+msgid "A module to notify when you website goes down."
+msgstr "Az a modul, amely értesíti, ha a webhely leáll."
+
+#: obfx_modules/uptime-monitor/init.php:31
+msgid "Uptime Monitor"
+msgstr "Elérés figyelő"
+
+#: core/app/class-orbit-fox-admin.php:171
+msgid "Dashboard Page"
+msgstr "Vezérlőpult oldal"
+
+#: core/app/class-orbit-fox-admin.php:171
+msgid "You have activated Orbit Fox plugin! Go to the %s to get started with the extra features."
+msgstr "Ön aktiválta az Orbit Fox bővítményt! A további funkciók elkezdéshez ugorjon a (z) %s elemre."
+
+#. Description of the plugin
+msgid "This swiss-knife plugin comes with a quality template library, menu/sharing icons modules, Gutenberg blocks, and newly added Elementor/BeaverBuilder page builder widgets on each release."
+msgstr "Ez egy svájci kés minőségű bővítmény mellyel kap egy minőségi sablon könyvtárt, menü/megosztás ikon modulokat, Gutenberg blokkokat, és újonnan hozzáadott Elementor/BeaverBuilder oldalépítő kütyüket minden új kiadással."
+
+#: obfx_modules/social-sharing/init.php:34
+msgid "demo"
+msgstr "demó"
+
+#: obfx_modules/social-sharing/init.php:34
+msgid "Add basic social sharing to your posts and pages. Check out the %s to learn more!"
+msgstr "Alap közösségi oldal megosztás hozzáadása a bejegyzésekhez és oldalakhoz. További információ: %s."
+
+#: obfx_modules/menu-icons/init.php:192
+msgid "Powered by %s plugin"
+msgstr "Vezérlő program: %s"
+
+#: obfx_modules/elementor-widgets/init.php:33
+#: obfx_modules/beaver-widgets/init.php:28
+msgid "Adds widgets to the most popular builders: Elementor or Beaver. More to come!"
+msgstr "Widgetek hozzáadása a legnépszerűbb oldalépítőkhöz: Elementor vagy Beaver. Még több hamarosan!"
+
+#: obfx_modules/elementor-widgets/init.php:32
+#: obfx_modules/beaver-widgets/init.php:27
+msgid "Page builder widgets"
+msgstr "Oldalépítő widgetek"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:176
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:181
+msgid "Content style"
+msgstr "Tartalomstílus"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:147
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:152
+msgid "Title style"
+msgstr "Címstílus"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:97
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:102
+msgid "Icon style"
+msgstr "Ikonstílus"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:69
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:74
+msgid "5"
+msgstr "5"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:68
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:73
+msgid "4"
+msgstr "4"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:67
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:72
+msgid "3"
+msgstr "3"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:66
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:71
+msgid "2"
+msgstr "2"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:56
+#: obfx_modules/beaver-widgets/modules/services/services.php:220
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:61
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:225
+msgid "Service"
+msgstr "Szolgáltatás"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:32
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:37
+msgid "An overview of the products or services."
+msgstr "A termékek vagy szolgáltatások áttekintése."
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:577
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:572
+msgid "Bold text"
+msgstr "Félkövér szöveg"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:100
+#: obfx_modules/beaver-widgets/modules/services/services.php:150
+#: obfx_modules/beaver-widgets/modules/services/services.php:179
+#: obfx_modules/beaver-widgets/modules/services/services.php:223
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:105
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:155
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:184
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:228
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:570
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:565
+msgid "General"
+msgstr "Általános"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:538
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:533
+msgid "Button background on hover"
+msgstr "Gomb háttere rámutatáskor"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:525
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:520
+msgid "Button background"
+msgstr "Gomb háttere"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:512
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:507
+msgid "Text on hover"
+msgstr "Rámutatáskor megjelenő szöveg"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:467
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:462
+msgid "Button Style"
+msgstr "Gomb stílusa"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:431
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:426
+msgid "Bold text color"
+msgstr "Félkövér szövegszín"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:244
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:249
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:418
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:413
+msgid "Icon color"
+msgstr "Ikonszín"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:399
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:394
+msgid "Features Style"
+msgstr "Funkciók stílusa"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:376
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:371
+msgid "Period color"
+msgstr "Időszak színe"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:363
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:358
+msgid "Currency color"
+msgstr "Pénznem színe"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:350
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:345
+msgid "Price color"
+msgstr "Ár színe"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:331
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:326
+msgid "Price Style"
+msgstr "Ár stílusa"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:323
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:318
+msgid "Radial"
+msgstr "Sugárirányú"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:322
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:317
+msgid "Diagonal top"
+msgstr "Felső átló"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:321
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:316
+msgid "Diagonal bottom"
+msgstr "Alsó átló"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:320
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:315
+msgid "Vertical"
+msgstr "Függőleges"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:319
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:314
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:316
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:311
+msgid "Orientation"
+msgstr "Irány"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:311
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:306
+msgid "Gradient color 2"
+msgstr "Színátmenetes szín 2"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:306
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:301
+msgid "Gradient color 1"
+msgstr "Színátmenetes szín 1"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:301
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:296
+msgid "Photo Field"
+msgstr "Fotómező"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:271
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:266
+msgid "Gradient"
+msgstr "Színátmenet"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:335
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:262
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:270
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:257
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:265
+msgid "Background"
+msgstr "Háttérszín"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:256
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:251
+msgid "Subtitle typography"
+msgstr "Alcím tipográfia"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:249
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:244
+msgid "Title typography"
+msgstr "Cím tipográfia"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:234
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:229
+msgid "Subtitle color"
+msgstr "Alcím színe"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:221
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:216
+msgid "Title color"
+msgstr "Cím színe"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:217
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:346
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:414
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:495
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:212
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:341
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:409
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:490
+msgid "Colors"
+msgstr "Színek"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:202
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:197
+msgid "Header Style"
+msgstr "Fejléc Stílus"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:189
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:184
+msgid "Align"
+msgstr "Igazítás"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:175
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:170
+msgid "Button link"
+msgstr "Gomb hivatkozás"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:150
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:145
+msgid "Features list"
+msgstr "Funkciók lista"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:131
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:126
+msgid "Currency position"
+msgstr "Pénznem pozíció"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:94
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:89
+msgid "Subtitle tag"
+msgstr "Alcím címke"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:86
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:81
+msgid "Plan subtitle"
+msgstr "Csomag alcím"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:63
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:58
+msgid "Plan title"
+msgstr "Csomag címsor"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:58
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:53
+msgid "Plan Header"
+msgstr "Csomag fejléc"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:37
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:32
+msgid "Pricing Tables are the perfect option when showcasing services you have on offer."
+msgstr "Az ártáblázat nagyszerű módja az ön által felajánlott szolgáltatások bemutatásának."
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:36
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:31
+msgid "Pricing table"
+msgstr "Ártáblázat"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:338
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:334
+msgid "Pagination alignment"
+msgstr "Lapozás igazítása"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:334
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:330
+msgid "Enable pagination"
+msgstr "Lapozás megjelenítése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:327
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:323
+msgid "Pagination options"
+msgstr "Lapozási opciók"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:293
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:289
+msgid "Text alignment"
+msgstr "Szöveg igazítás"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:282
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:278
+msgid "Read more text"
+msgstr "Olvass tovább szöveg"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:276
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:272
+msgid "Number of words"
+msgstr "Szavak száma"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:271
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:267
+msgid "Show read more"
+msgstr "'Tovább' szöveg megjelenítése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:266
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:262
+msgid "Show post content"
+msgstr "Bejegyzés tartalom megjelenítése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:259
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:255
+msgid "Content options"
+msgstr "Tartalom opciók"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:226
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:222
+msgid "Meta alignment"
+msgstr "Meta igazítás"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:209
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:205
+msgid "If icons doesn't show you have to enqueue FontAwesome in your theme."
+msgstr "Ha az ikonok nem jelennek meg, be kell állítania a FontAwesome-ot a sablonban."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:207
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:203
+msgid "Show icons"
+msgstr "Ikonok megjelenítése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:202
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:198
+msgid "Show post meta"
+msgstr "Bejegyzés meta megjelenítése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:195
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:191
+msgid "Meta options"
+msgstr "Meta opciók"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:167
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:163
+msgid "div"
+msgstr "div"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:165
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:161
+msgid "span"
+msgstr "span"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:164
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:160
+msgid "H6"
+msgstr "H6"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:163
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:159
+msgid "H5"
+msgstr "H5"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:162
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:158
+msgid "H4"
+msgstr "H4"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:161
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:157
+msgid "H3"
+msgstr "H3"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:160
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:156
+msgid "H2"
+msgstr "H2"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:159
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:155
+msgid "H1"
+msgstr "H1"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:156
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:152
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:71
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:66
+msgid "Title tag"
+msgstr "Címsor címke"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:145
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:141
+msgid "Title alignment"
+msgstr "Címsor igazítás"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:140
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:136
+msgid "Link on title"
+msgstr "Címsor hivatkozása"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:135
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:131
+msgid "Show post title"
+msgstr "Mutassa a bejegyzések címsorát"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:128
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:124
+msgid "Title options"
+msgstr "Címsor opciók"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:94
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:90
+msgid "Image alignment"
+msgstr "Képigazítás"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:87
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:83
+msgid "Image size"
+msgstr "Képméret"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:82
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:78
+msgid "Enable thumbnail shadow"
+msgstr "Bélyegkép árnyékának engedélyezése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:77
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:73
+msgid "Link in thumbnail"
+msgstr "Bélyegkép hivatkozása"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:72
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:68
+msgid "Show post thumbnail"
+msgstr "Bejegyzés bélyegképének megjelenítése"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:65
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:61
+msgid "Image options"
+msgstr "Kép opciók"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:61
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:57
+msgid "Loop Settings"
+msgstr "Hurok beállítások"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:33
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:38
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:37
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:33
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:38
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:33
+msgid "Orbit Fox Modules"
+msgstr "Orbit Fox modulok"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:36
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:32
+msgid "A method to display your posts."
+msgstr "Egy mód a bejegyzések megjelenítésére."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:35
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:31
+msgid "Post Grid"
+msgstr "Bejegyzés rács"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:314
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:444
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:439
+msgid "Text color"
+msgstr "Szövegszín"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:298
+msgid "Link color"
+msgstr "Hivatkozás színe"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:79
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:84
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:280
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:287
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:282
+msgid "Background color"
+msgstr "Háttérszín"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:268
+msgid "Margin bottom"
+msgstr "Alsó margó"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:256
+msgid "Margin top"
+msgstr "Felső margó"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:74
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:79
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:246
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:184
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:179
+msgid "Card layout"
+msgstr "Kártya rendezés"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:231
+msgid "Display type"
+msgstr "Megjelenítési típus"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:219
+msgid "Middle"
+msgstr "Közép"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:215
+msgid "Vertical align"
+msgstr "Függőleges igazítás"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:206
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:180
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:175
+msgid "Appearance"
+msgstr "Megjelenés"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:196
+msgid "Enter a list of authors usernames."
+msgstr "Adja meg a szerzők felhasználóneveinek listáját."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:195
+msgid "Authors"
+msgstr "Szerzők"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:134
+msgid "Filter"
+msgstr "Szűrő"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:62
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:67
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:123
+msgid "Number of columns"
+msgstr "Oszlopok száma"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:113
+msgid "-1 means all posts"
+msgstr "-1 az összes bejegyzés"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:110
+msgid "Posts per page"
+msgstr "Bejegyzés oldalanként"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:100
+msgid "Skip this many posts that match the specified criteria."
+msgstr "Ennyi kritériumoknak megfelelő bejegyzés átugrása."
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:97
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "Eltolás"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:87
+msgid "Meta Key"
+msgstr "Meta kulcs"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:66
+msgid "Meta Value (Numeric)"
+msgstr "Meta érték (numerikus)"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:65
+msgid "Meta Value (Alphabetical)"
+msgstr "Meta érték (betűrendi)"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:64
+msgid "Menu Order"
+msgstr "Menü sorrend"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:63
+msgid "ID"
+msgstr "ID"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:62
+msgid "Date Last Modified"
+msgstr "Utolsó módosítás dátuma"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:60
+msgid "Comment Count"
+msgstr "Hozzászólások száma"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:57
+msgid "Order By"
+msgstr "Rendezés: "
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:46
+msgid "Ascending"
+msgstr "Növekvő"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:45
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:43
+msgid "Order"
+msgstr "Sorrend"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:24
+msgid "Custom Query"
+msgstr "Egyedi lekérdezés"
+
+#. translators: 1: number of comments, 2: post title
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/frontend.php:187
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s hozzászólás"
+msgstr[1] "%1$s hozzászólás"
+
+#. translators: %s: post title
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/frontend.php:182
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Egy hozzászólás"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/frontend.php:101
+msgid "By %1$s"
+msgstr "Szerző: %1$s"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:112
+msgid "Letter spacing"
+msgstr "Betűköz"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:107
+msgid "Line height"
+msgstr "Sor magasság"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:102
+msgid "Oblique"
+msgstr "Ferde"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:101
+msgid "Italic"
+msgstr "Dőlt"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:97
+msgid "Font style"
+msgstr "Betűstílus"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:92
+msgid "Lowercase"
+msgstr "Kisbetű"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:91
+msgid "Uppercase"
+msgstr "Nagybetű"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:90
+msgid "Capitalize"
+msgstr "Mind nagybetű"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:89
+msgid "None"
+msgstr "Egyik sem"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:86
+msgid "Transform"
+msgstr "Átalakítás"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:78
+msgid "Font family"
+msgstr "Betűtípus"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:72
+msgid "Font size"
+msgstr "Betűméret"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:36
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:220
+msgid "Bottom"
+msgstr "Alsó"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:31
+#: obfx_modules/beaver-widgets/inc/common-functions.php:37
+#: obfx_modules/beaver-widgets/inc/common-functions.php:43
+#: obfx_modules/beaver-widgets/inc/common-functions.php:49
+#: obfx_modules/beaver-widgets/inc/common-functions.php:73
+#: obfx_modules/beaver-widgets/inc/common-functions.php:108
+#: obfx_modules/beaver-widgets/inc/common-functions.php:113
+#: obfx_modules/beaver-widgets/modules/services/services.php:115
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:120
+msgid "px"
+msgstr "px"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:26
+msgid "Margins"
+msgstr "Margók"
+
+#: obfx_modules/beaver-widgets/custom-fields/toggle-field/toggle_field.php:27
+msgid "No"
+msgstr "Nem"
+
+#: obfx_modules/beaver-widgets/custom-fields/toggle-field/toggle_field.php:26
+msgid "Yes"
+msgstr "Igen"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:155
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:176
+msgid "Enter a list of %1$s."
+msgstr "Adja meg a(z) %1$s listáját."
+
+#: obfx_modules/mystock-import/init.php:280
+msgid "Import & insert image"
+msgstr "Kép importálás és beillesztés"
+
+#: obfx_modules/mystock-import/init.php:279
+msgid "Import & set featured image"
+msgstr "Kép importálás és kiemelt kép beállítása"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:266
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:261
+msgid "Type"
+msgstr "Tipus"
+
+#: obfx_modules/template-directory/init.php:101
+msgid "Orbit Fox Template Directory"
+msgstr "Orbit Fox sablon könyvtár"
+
+#: obfx_modules/template-directory/init.php:30
+msgid "Template Directory Module"
+msgstr "Sablon könyvtár modul"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:30
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:218
+msgid "Top"
+msgstr "Felső"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:249
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:254
+msgid "Link to"
+msgstr "Hivatkozás ide:"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:31
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:36
+msgid "Services"
+msgstr "Szolgáltatások"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:64
+msgid "Typography"
+msgstr "Tipográfia"
+
+#: obfx_modules/policy-notice/init.php:125
+msgid "Accept"
+msgstr "Elfogadás"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:141
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:136
+msgid "/month"
+msgstr "/hónap"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:140
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:135
+msgid "Period"
+msgstr "Időtartam"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:135
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:130
+msgid "After"
+msgstr "Utána"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:134
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:129
+msgid "Before"
+msgstr "Elé"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:122
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:117
+msgid "Currency"
+msgstr "Pénznem"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:109
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:104
+msgid "Price Tag"
+msgstr "Ár címke"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:166
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:162
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:80
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:103
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:75
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:98
+msgid "p"
+msgstr "P"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:79
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:102
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:74
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:97
+msgid "h6"
+msgstr "h6"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:78
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:101
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:73
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:96
+msgid "h5"
+msgstr "h5"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:77
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:100
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:72
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:95
+msgid "h4"
+msgstr "h4"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:76
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:99
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:71
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:94
+msgid "h3"
+msgstr "h3"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:75
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:98
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:70
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:93
+msgid "h2"
+msgstr "h2"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:74
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:97
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:69
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:92
+msgid "h1"
+msgstr "h1"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:100
+msgid "Normal"
+msgstr "Normál"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:154
+#: obfx_modules/beaver-widgets/modules/services/services.php:193
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:159
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:198
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:269
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:264
+msgid "Color"
+msgstr "Szín"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:26
+msgid "Padding"
+msgstr "Kitöltés"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:183
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:188
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:48
+#: obfx_modules/beaver-widgets/modules/services/services.php:109
+#: obfx_modules/beaver-widgets/modules/services/services.php:188
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:114
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:193
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:99
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:150
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:231
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:298
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:343
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:95
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:146
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:227
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:294
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:339
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:194
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:189
+msgid "Right"
+msgstr "Jobb"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:108
+#: obfx_modules/beaver-widgets/modules/services/services.php:187
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:113
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:192
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:97
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:148
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:229
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:296
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:341
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:93
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:144
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:225
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:292
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:337
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:192
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:187
+msgid "Center"
+msgstr "Közép"
+
+#: obfx_modules/beaver-widgets/inc/common-functions.php:42
+#: obfx_modules/beaver-widgets/modules/services/services.php:107
+#: obfx_modules/beaver-widgets/modules/services/services.php:186
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:112
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:191
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:98
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:149
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:230
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:297
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:342
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:94
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:145
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:226
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:293
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:338
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:193
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:188
+msgid "Left"
+msgstr "Bal"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:166
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:161
+msgid "Button text"
+msgstr "Gomb szöveg"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:162
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:167
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:157
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:162
+msgid "Button"
+msgstr "Gomb"
+
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:113
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:108
+msgid "Price"
+msgstr "Ár"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:48
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:53
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:55
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:50
+msgid "Content"
+msgstr "Tartalom"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:65
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:70
+msgid "1"
+msgstr "1"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:220
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:216
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:219
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:215
+msgid "Tags"
+msgstr "Címkék"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:213
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:209
+msgid "Display"
+msgstr "Megjelenítés"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:67
+msgid "Random"
+msgstr "Véletlenszerű"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:61
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:217
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:213
+msgid "Date"
+msgstr "Dátum"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:235
+msgid "List"
+msgstr "Lista"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:234
+msgid "Grid"
+msgstr "Rács"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:218
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:214
+msgid "Category"
+msgstr "Kategória"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:33
+msgid "Post Type"
+msgstr "Bejegyzés típusa"
+
+#: obfx_modules/companion-legacy/init.php:68
+msgid "Module containing frontpage improvements for %s theme."
+msgstr "A (z) %s sablonra vonatkozó FrontPage fejlesztéseket tartalmazó modul."
+
+#: obfx_modules/companion-legacy/init.php:67
+msgid "%s enhancements "
+msgstr "%s fejlesztés "
+
+#: core/app/class-orbit-fox-admin.php:149
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: core/app/class-orbit-fox-admin.php:149
+msgid "Orbit Fox General Options"
+msgstr "Orbit Fox általános beállítások"
+
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:283
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:279
+msgid "Read more"
+msgstr "Bővebben"
+
+#: obfx_modules/template-directory/init.php:31
+msgid "The awesome template directory is aiming to provide a wide range of templates that you can import straight into your website."
+msgstr "Ez a nagyszerű sablonkönyvtár lehetőséget nyújt arra, hogy különböző sablonokat importálhasson egyenesen a weblapjába."
+
+#: obfx_modules/mystock-import/init.php:278
+msgid "MyStock Library"
+msgstr "MyStock könyvtár"
+
+#: obfx_modules/mystock-import/init.php:276
+msgid "Your image was imported. Go to Media Library tab to use it."
+msgstr "A kép importálva. Nyissa meg a médiatár fület a használatához."
+
+#: obfx_modules/mystock-import/init.php:275
+msgid "Downloading image. Please wait..."
+msgstr "Kép letöltése. Kérjük várjon..."
+
+#: obfx_modules/mystock-import/init.php:274
+msgid "Fetching data"
+msgstr "Adatok beolvasása"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:114
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:119
+msgid "Size"
+msgstr "Méret"
+
+#: obfx_modules/mystock-import/init.php:50
+msgid "Module to import images directly from"
+msgstr "A modul, amelyből importálja a képeket."
+
+#: obfx_modules/mystock-import/init.php:49
+msgid "Mystock Import"
+msgstr "Mystock import"
+
+#: obfx_modules/mystock-import/inc/photo.php:23
+msgid "Deselect"
+msgstr "Kijelölés megszüntetése"
+
+#: obfx_modules/menu-icons/init.php:34
+msgid "Module to define menu icons for navigation."
+msgstr "A modul, amelyből kiválassza a navigációs menü ikonjait."
+
+#: obfx_modules/menu-icons/init.php:33
+msgid "Menu Icons"
+msgstr "Menük ikonok"
+
+#: obfx_modules/mystock-import/init.php:277
+msgid "Loading more photos..."
+msgstr "További képek betöltése..."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:121
+msgid "Button Text"
+msgstr "Gomb szöveg"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-ribbon-section.php:42
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:108
+msgid "Subscribe"
+msgstr "Feliratkozás"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-ribbon-section.php:39
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:88
+msgid "Subscribe to our Newsletter"
+msgstr "Feliratkozás a hírlevélre"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:81
+msgid "Background Image"
+msgstr "Háttérkép"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:29
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:40
+msgid "Ribbon"
+msgstr "Szalag"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:82
+msgid "Clients"
+msgstr "Ügyfelek"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:81
+msgid "Add new client"
+msgstr "Új ügyfél hozzáadása"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:78
+msgid "Clients Bar Content"
+msgstr "Ügyfelek sáv tartalom"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:37
+msgid "Clients Bar"
+msgstr "Ügyfelek sáv"
+
+#: obfx_modules/social-sharing/views/hestia-social-sharing-tpl.php:38
+msgid "Share on "
+msgstr "Megosztás itt: "
+
+#: obfx_modules/social-sharing/init.php:30
+msgid "Social Sharing Module"
+msgstr "Közösségi megosztó modul"
+
+#: core/app/class-orbit-fox-plugin-install.php:165
+#: core/app/views/partials/module-tile-tpl.php:67
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: core/app/views/partials/module-tile-tpl.php:18
+msgid "Module Description ..."
+msgstr "Modulleírás..."
+
+#: core/app/views/partials/module-tile-tpl.php:14
+msgid "Module Name"
+msgstr "Modulnév"
+
+#: core/app/views/partials/module-panel-tpl.php:31
+msgid "No options provided."
+msgstr "Nincs elérhető opció."
+
+#: core/app/views/partials/module-panel-tpl.php:27
+msgid "The Module Description ..."
+msgstr "A modul leírása..."
+
+#: core/app/views/partials/module-panel-tpl.php:23
+msgid "The Module Name"
+msgstr "A Modulnév"
+
+#: core/app/views/partials/empty-tpl.php:18
+msgid "Contact support"
+msgstr "Kapcsolatfelvétel az ügyféltámogatással"
+
+#: core/app/views/partials/empty-tpl.php:14
+msgid "There are no modules for the Fox!"
+msgstr "Nincsenek modulok a Fox-hoz!"
+
+#: core/app/views/modules-page.php:94
+msgid "No modules activated."
+msgstr "Nincs aktivált modul."
+
+#: core/app/views/modules-page.php:70
+msgid "Available Modules"
+msgstr "Elérhető modulok"
+
+#: core/app/helpers/class-orbit-fox-render-helper.php:123
+msgid "No option found for provided type"
+msgstr "Nem található beállítás a megadott típushoz."
+
+#: core/app/class-orbit-fox-admin.php:490
+msgid "Activate a module using the toggles above."
+msgstr "Aktiváljon egy modult a fenti váltás segítségével."
+
+#: core/app/class-orbit-fox-admin.php:489
+msgid "No active modules."
+msgstr "Nincs aktív modul."
+
+#: core/app/class-orbit-fox-admin.php:482
+msgid "Please contact support for more help."
+msgstr "További segítségért kérjük, forduljon a támogatáshoz."
+
+#: core/app/class-orbit-fox-admin.php:481
+msgid "No modules found."
+msgstr "Nem található modul."
+
+#: core/app/class-orbit-fox-admin.php:363
+msgid "Module status changed!"
+msgstr "A modul állapota megváltozott!"
+
+#: core/app/class-orbit-fox-admin.php:358
+msgid "Something went wrong, can not change module status!"
+msgstr "Valami elromlott, nem tudja megváltoztatni a modul állapotát!"
+
+#: core/app/class-orbit-fox-admin.php:354
+msgid "No module found!"
+msgstr "Nem található modul!"
+
+#: core/app/class-orbit-fox-admin.php:223
+#: core/app/class-orbit-fox-admin.php:329
+msgid "Could not process the request!"
+msgstr "Nem sikerült feldolgozni a kérést!"
+
+#: core/app/class-orbit-fox-admin.php:258
+msgid "Options updated, successfully!"
+msgstr "Opciók frissítve!"
+
+#: core/app/class-orbit-fox-admin.php:254
+msgid "Something went wrong, data might not be saved!"
+msgstr "Valami elromlott, az adatok esetleg nem kerülnek mentésre!"
+
+#: core/app/class-orbit-fox-admin.php:248
+msgid "No module found! No data was updated."
+msgstr "Nem található modul! Nem frissültek az adatok."
+
+#. Plugin Name of the plugin
+msgid "Orbit Fox Companion"
+msgstr "Orbit Fox tartozékok"
+
+#: core/app/views/modules-page.php:45 core/app/class-orbit-fox-admin.php:138
+#: core/app/class-orbit-fox-admin.php:139
+msgid "Orbit Fox"
+msgstr "Orbit Fox"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:179
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:315
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:85
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:80
+msgid "Subtitle"
+msgstr "Alcím"
+
+#: obfx_modules/beaver-widgets/modules/services/services.php:239
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:244
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:585
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:580
+msgid "Icon"
+msgstr "Ikon"
+
+#: obfx_modules/companion-legacy/inc/hestia/functions.php:72
+msgid "Front Page"
+msgstr "Kezdőoldal"
+
+#: obfx_modules/companion-legacy/inc/hestia/functions.php:74
+msgid "Blog"
+msgstr "Blog"
+
+#. Author of the plugin
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:206
+msgid "Author details"
+msgstr "Szerző adatai"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:192
+msgid "Author link"
+msgstr "Szerzõ link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:178
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:59
+#: obfx_modules/beaver-widgets/modules/post-grid/obfx-post-grid.php:216
+#: obfx_modules/beaver-widgets/modules/post-grid/post-grid.php:212
+msgid "Author"
+msgstr "Szerző"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:24
+msgid "Zerif - Testimonial widget"
+msgstr "Zerif - Visszajelzés widget"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:402
+msgid "Open links in new window?"
+msgstr "Linkek megnyitása új ablakban?"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:382
+msgid "Linkedin link"
+msgstr "LinkedIn link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:368
+msgid "Dribble link"
+msgstr "Dribble link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:353
+msgid "Behance link"
+msgstr "Behance link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:339
+msgid "Twitter link"
+msgstr "Twitter link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:324
+msgid "Facebook link"
+msgstr "Facebook link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:311
+msgid "Description"
+msgstr "Leírás"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:299
+#: obfx_modules/beaver-widgets/modules/services/services.php:104
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:109
+msgid "Position"
+msgstr "Pozició"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:285
+msgid "Name"
+msgstr "Név"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:210
+msgid "Linkedin account of"
+msgstr "LinkedIn fiók tulajdonosa"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:189
+msgid "Dribble account of"
+msgstr "Dribble fiók tulajdonosa"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:168
+msgid "Behance account of"
+msgstr "Behance fiók tulajdonosa"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:147
+msgid "Twitter account of"
+msgstr "Twitter fiók tulajdonosa"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:126
+msgid "Facebook account of"
+msgstr "Facebook fiók tulajdonosa"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:24
+msgid "Zerif - Team member widget"
+msgstr "Zerif - Csapattagok widget"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:220
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:195
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:102
+#: obfx_modules/beaver-widgets/modules/services/services.php:234
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:239
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:499
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:581
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:494
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:576
+msgid "Text"
+msgstr "Szöveg"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:161
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:297
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:389
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:181
+#: obfx_modules/beaver-widgets/modules/services/services.php:230
+#: obfx_modules/beaver-widgets/modules/services/obfx-services.php:235
+#: obfx_modules/beaver-widgets/modules/post-grid/includes/loop-settings.php:68
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:62
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:57
+msgid "Title"
+msgstr "Címsor"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:102
+msgid "Go to"
+msgstr "Gyerünk ide:"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:23
+msgid "Zerif - Our focus widget"
+msgstr "Zerif - fókuszunk widget"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:183
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:281
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:270
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:456
+msgid "Upload Image"
+msgstr "Kép feltöltése"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:167
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:265
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:254
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:440
+msgid "Uploaded image"
+msgstr "Feltöltött kép"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:134
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-testimonial.php:232
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:221
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-team.php:407
+msgid "Image"
+msgstr "Kép"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:120
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-focus.php:207
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:140
+msgid "Link"
+msgstr "Link"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:66
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:73
+msgid "Client"
+msgstr "Ügyfél"
+
+#: obfx_modules/companion-legacy/inc/zerif-lite/widgets/widget-clients.php:24
+msgid "Zerif - Clients widget"
+msgstr "Zerif - Ügyfelek widget"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:115
+msgid "Testimonial"
+msgstr "Visszajelzések"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:114
+msgid "Add new Testimonial"
+msgstr "Új visszajelzés hozzáadása"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:111
+msgid "Testimonials Content"
+msgstr "Visszajelzés tartalom"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:37
+msgid "Testimonials"
+msgstr "Visszajelzések"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:115
+msgid "Team Member"
+msgstr "Csapattag"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:114
+msgid "Add new Team Member"
+msgstr "Új csapattag hozzáadása"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:111
+msgid "Team Content"
+msgstr "Csapat tartalom"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:37
+msgid "Team"
+msgstr "Csapat"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:115
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:155
+#: obfx_modules/beaver-widgets/modules/pricing-table/obfx-pricing-table.php:567
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:150
+#: obfx_modules/beaver-widgets/modules/pricing-table/pricing-table.php:562
+msgid "Feature"
+msgstr "Funkció"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:114
+msgid "Add new Feature"
+msgstr "Új funkció létrehozása"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:111
+msgid "Features Content"
+msgstr "Funkció tartalom"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:91
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:91
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:91
+msgid "Section Subtitle"
+msgstr "Szekció alcím"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:74
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:74
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:74
+msgid "Section Title"
+msgstr "Szekció cím"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-clients-bar-section.php:57
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-ribbon-section.php:60
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:57
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-team-section.php:57
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-testimonials-section.php:57
+msgid "Disable section"
+msgstr "Szekció letiltása"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:26
+#: obfx_modules/companion-legacy/inc/hestia/inc/features/feature-features-section.php:37
+msgid "Features"
+msgstr "Funkciók"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:242
+msgid "\"Thank you for making it painless, pleasant and most of all hassle free! I am so pleased with this product. Dude, your stuff is great! I will refer everyone I know.\""
+msgstr "\"Köszönöm, hogy kellemes de leginkább problémamentes volt! Annyira örülök ennek a terméknek! Haver, ez a cucc nagyszerű! Mindenkinek ajánlani fogom.\""
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:241
+msgid "Freelancer"
+msgstr "Szabadúszó"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:240
+msgid "Natalya Undergrowth"
+msgstr "Natalya Undergrowth"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:235
+msgid "\"Your company is truly upstanding and is behind its product 100 percent. Hestia is worth much more than I paid. I like Hestia more each day because it makes easier.\""
+msgstr "\"Az önök cége igazán kiemelkedő! A termék százszor többet ér, mint amennyit fizettem érte. Napról napra jobban imádom, mert könnyebbé teszi az életem.\""
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:234
+msgid "Independent Artist"
+msgstr "Független művész"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:233
+msgid "Hanson Deck"
+msgstr "Hanson Deck"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:228
+msgid "\"We have no regrets! After using your product my business skyrocketed! I made back the purchase price in just 48 hours! I couldn't have asked for more than this.\""
+msgstr "\"Semmit nem bántam meg! A termék használata az egekbe repítette a vállalkozásom sikerét! 48 órán belül visszajött az ára! Többet nem is kívánhattam volna.\""
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:227
+msgid "Business Owner"
+msgstr "Cégtulajdonos"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:226
+msgid "Inverness McKenzie"
+msgstr "Inverness McKenzie"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:47
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:28
+msgid "What clients say"
+msgstr "Ügyfeleink mondják"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:358
+msgid "Small batch vexillologist 90's blue bottle stumptown bespoke. Pok pok tilde fixie chartreuse, VHS gluten-free selfies wolf hot."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:357
+msgid "Lead Developer"
+msgstr "Vezető fejlesztő"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:356
+msgid "Ruby Von Rails"
+msgstr "Ruby Von Rails"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:327
+msgid "Pok pok direct trade godard street art, poutine fam typewriter food truck narwhal kombucha wolf cardigan butcher whatever pickled you."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:326
+msgid "Graphic Designer"
+msgstr "Grafikai tervező"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:325
+msgid "Desmond Eagle"
+msgstr "Desmond Eagle"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:296
+msgid "Craft beer salvia celiac mlkshk. Pinterest celiac tumblr, portland salvia skateboard cliche thundercats. Tattooed chia austin hell."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:295
+msgid "Marketing Specialist"
+msgstr "Marketing specialista"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:294
+msgid "Parsley Pepperspray"
+msgstr "Parsley Pepperspray"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:265
+msgid "Locavore pinterest chambray affogato art party, forage coloring book typewriter. Bitters cold selfies, retro celiac sartorial mustache."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec purus feugiat, molestie ipsum et, consequat nibh. Etiam non elit dui. Nullam vel eros sit amet arcu vestibulum accumsan in in leo."
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:264
+msgid "CEO"
+msgstr "Vezérigazgató"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:263
+msgid "Desmond Purpleson"
+msgstr "Desmond Purpleson"
+
+#: obfx_modules/companion-legacy/inc/shop-isle/customizer.php:154
+#: obfx_modules/companion-legacy/inc/shop-isle/template-about.php:81
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:34
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:31
+msgid "Meet our team"
+msgstr "Ismerje meg csapatunkat"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:213
+msgid "Support"
+msgstr "Támogatás"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:206
+msgid "Quality"
+msgstr "Minőség"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:199
+msgid "Responsive"
+msgstr "Reszponzív"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:18
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:28
+msgid "Why our product is the best"
+msgstr "Miért a mi termékünk a legjobb"
+
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:23
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:38
+#: obfx_modules/companion-legacy/inc/hestia/inc/customizer.php:51
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:29
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:200
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:207
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-features-section.php:214
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-testimonials-section.php:29
+#: obfx_modules/companion-legacy/inc/hestia/inc/sections/hestia-team-section.php:32
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
