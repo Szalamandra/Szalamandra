@@ -1747,7 +1747,7 @@ function wp_dashboard_php_nag() {
 	}
 
 	if ( isset( $response['is_secure'] ) && ! $response['is_secure'] ) {
-		$msg = __( 'WordPress has detected that your site is running on an insecure version of PHP.' );
+		$msg = __( 'Wordpress has detected that your site is running on an insecure version of PHP.' );
 	} else {
 		$msg = __( 'WordPress has detected that your site is running on an outdated version of PHP.' );
 	}
